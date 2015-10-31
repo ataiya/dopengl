@@ -1,0 +1,11 @@
+{
+	"name": "dopengl",
+	"description": "A minimal D+OpenGL application.",
+	"copyright": "Copyright © 2015, Andrea Tagliasacchi",
+	"authors": ["Andrea Tagliasacchi"],
+    "dependencies": {
+       "derelict-glfw3": ">=1.1.0",
+       "derelict-gl3": ">=1.0.9"
+    }
+}
+
